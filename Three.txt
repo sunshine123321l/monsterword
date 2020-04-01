@@ -1,0 +1,27 @@
+97.	like   adj.相似的；同样的  
+98.	agreeable  [ə'ɡriːəbl]	  adj.愉快的；和蔼可亲的；欣然同意的；一致的
+99.	boost  [buːst]  v. & n. 提高；增加；鼓励；举起
+100.	hinder  ['hɪndə(r)]	v.阻碍；打扰
+101.	conflicting  ['kɒnflɪktɪŋ]  adj.冲突的
+102.	perspective  [pə'spektɪv]	 n.远景；看法；透视adj.透视的
+103.	dig out the truth  phr. 发现真相
+104.	confirmation  [,kɒnfə'meɪʃn]  n.确认；证实
+105.	bias  ['baɪəs]  n.偏见；偏爱
+106.	confrontation  [,kɒnfrʌn'teɪʃən]  n.对抗；冲突
+107.	brilliance  ['brɪliəns]  n.才华；光辉；辉煌
+108.	assessment  [ə'sesmənt]	 n.评价；评估；评定
+109.	stale  [steɪl]  adj.不新鲜的；陈腐的
+110.	current  ['kʌrənt]  n.趋势；(水、气、电)流adj.现在的；流通的
+111.	identify  [aɪ'dentɪfaɪ]	  vt.鉴定；识别，辨认出，把…看成一样
+112.	blind spot  phr.盲区；盲点
+113.	passionate  ['pæʃənət]  adj.热情的；激情的
+114.	energetic  [,enə'dʒetɪk]  adj.精力旺盛的；有力的；能量的
+115.	opponent  [ə'pəʊnənt]  n.对手；反对者adj.反对的；敌对的
+116.	ground  rule  phr. 基本规则
+117.	boundary  ['baʊndəri]  n.边界；分界线	
+118.	fierce  [fɪəs]  adj.强烈的；凶猛的
+119.	tension  ['tenʃn]	 n.紧张；张力
+120.	reinforce  [,riːɪn'fɔːs]  vt.加固；增强
+121.	discourse  ['dɪskɔːs]  n.谈话，讨论；（一系列的）演讲，文章
+122.	reward  [rɪ'wɔːd]  n.报答；赏金；报酬vt.奖赏；给 ... 报酬
+123.	sufficiently  [sə'fɪʃntli]	adv.足够地；充分地
