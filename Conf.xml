@@ -4,9 +4,9 @@
   <appVersion>1.0</appVersion>
   <downloadApp>http://blog.csdn.net/final5788</downloadApp>
   <fileAddress>
-    <name>https://raw.githubusercontent.com/sunshine123321l/monsterword/master/One.txt</name>
-    <name>https://raw.githubusercontent.com/sunshine123321l/monsterword/master/Two.txt</name>
-    <name>https://raw.githubusercontent.com/sunshine123321l/monsterword/master/Three.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/words/master/One.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/words/master/Two.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/words/master/Three.txt</name>
   </fileAddress>
   
 </root>
