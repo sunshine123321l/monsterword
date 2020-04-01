@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xmlVersion>1.0</xmlVersion>
   <appVersion>1.0</appVersion>
@@ -7,6 +7,7 @@
     <name>https://raw.githubusercontent.com/sunshine123321l/words/master/One.txt</name>
     <name>https://raw.githubusercontent.com/sunshine123321l/words/master/Two.txt</name>
     <name>https://raw.githubusercontent.com/sunshine123321l/words/master/Three.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/words/master/CET4_A.txt</name>
   </fileAddress>
   
 </root>
